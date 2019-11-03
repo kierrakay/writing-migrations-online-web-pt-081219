@@ -6,3 +6,7 @@ class AddGradeAndBirthdateToStudents < ActiveRecord::Migration[5.1]
   end 
 end
 
+# Status   Migration ID    Migration Name
+# --------------------------------------------------
+#   up     001             Create students
+#   up     002             Add grade and birthdate to students
