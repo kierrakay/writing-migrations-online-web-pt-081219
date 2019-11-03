@@ -10,3 +10,5 @@ end
 # --------------------------------------------------
 #   up     001             Create students
 #   up     002             Add grade and birthdate to students
+
+# when you run 
